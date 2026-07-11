@@ -4,3 +4,4 @@ It is forked from the plugin by taqueci/redmine_wysiwyg_editor (https://github.c
 
 * Tested in Redmine 5.1.1 stable
 * Fixed bugs while switching the editor and markdown snippets like footnote, search issues, search wiki, or embeded codes
+* Forked from the version 0.34.0
